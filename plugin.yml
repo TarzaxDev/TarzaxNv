@@ -1,0 +1,16 @@
+name: TarzaxNv
+author: Tarzax
+version: 1.0.0
+api: 4.0.0
+main: tarzax\nv\Main
+website: https://github.com/TarzaxDev
+
+commands:
+  vanish:
+    usage: /nv
+    description: "NightVison"
+    permission: nv.use
+
+permissions:
+  nv.use:
+    default: true
