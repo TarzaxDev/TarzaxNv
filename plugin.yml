@@ -6,7 +6,7 @@ main: tarzax\nv\Main
 website: https://github.com/TarzaxDev
 
 commands:
-  vanish:
+  nv:
     usage: /nv
     description: "NightVison"
     permission: nv.use
